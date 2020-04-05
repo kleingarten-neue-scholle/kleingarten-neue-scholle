@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Neue Scholle</title>
-    <link href="neue-scholle.de/feed.xml" rel="self" />
-    <link href="neue-scholle.de" />
-    <updated>2020-04-05T13:47:07+02:00</updated>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2020-04-05T13:55:14+02:00</updated>
     <author>
         <name>Nico</name>
     </author>
-    <id>neue-scholle.de</id>
+    <id></id>
 
     <entry>
         <title>Kontakt</title>
         <author>
             <name>Nico</name>
         </author>
-        <link href="neue-scholle.de/kontakt/"/>
-        <id>neue-scholle.de/kontakt/</id>
+        <link href="/kontakt/"/>
+        <id>/kontakt/</id>
 
         <updated>2020-04-05T13:21:20+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="neue-scholle.de/media/posts/5/P1820925.jpg" alt="" />
+                        <img src="/media/posts/5/P1820925.jpg" alt="" />
                     Schreibt uns doch an info -at- neue-scholle.de oder besucht uns, die Gärten sind in der Blabla Straße 42,5 123456 Brake Brake Brake.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="neue-scholle.de/media/posts/5/P1820925.jpg" alt="" />
+                    <img src="/media/posts/5/P1820925.jpg" alt="" />
                 <p>Schreibt uns doch an info -at- neue-scholle.de oder besucht uns, die Gärten sind in der</p>
 <p>Blabla Straße 42,5<br>123456 Brake<br>Brake<br>Brake.</p>
             ]]>
@@ -37,19 +37,19 @@
         <author>
             <name>Nico</name>
         </author>
-        <link href="neue-scholle.de/gaerten/"/>
-        <id>neue-scholle.de/gaerten/</id>
+        <link href="/gaerten/"/>
+        <id>/gaerten/</id>
 
         <updated>2020-04-05T13:13:02+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="neue-scholle.de/media/posts/4/P1820900.jpg" alt="" />
+                        <img src="/media/posts/4/P1820900.jpg" alt="" />
                     Also ich würde euch raten, hauptsächlich Kartoffeln anzupflanzen. Der ganze andere Mist bringt einfach nichts.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="neue-scholle.de/media/posts/4/P1820900.jpg" alt="" />
+                    <img src="/media/posts/4/P1820900.jpg" alt="" />
                 Also ich würde euch raten, hauptsächlich Kartoffeln anzupflanzen. Der ganze andere Mist bringt einfach nichts.
             ]]>
         </content>
@@ -59,19 +59,19 @@
         <author>
             <name>Nico</name>
         </author>
-        <link href="neue-scholle.de/impressum/"/>
-        <id>neue-scholle.de/impressum/</id>
+        <link href="/impressum/"/>
+        <id>/impressum/</id>
 
         <updated>2020-04-05T13:27:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="neue-scholle.de/media/posts/3/P1820922.jpg" alt="" />
+                        <img src="/media/posts/3/P1820922.jpg" alt="" />
                     Diese Webseite wurde gemacht mit github pages und dem CMS Publii. Danke an Nico Westerbeck für die Umsetzung! Angaben gemäß § 5 TMG Kleingartenverein Neue Scholle e.V. Tunnelweg ??? 33729 Bielefeld Vertreten durch: Max Muster Kontakt: Telefon: 01234-789456 E-Mail: vorstand -at- neue-scholle.de Haftungsausschluss: Haftung für Inhalte Die&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="neue-scholle.de/media/posts/3/P1820922.jpg" alt="" />
+                    <img src="/media/posts/3/P1820922.jpg" alt="" />
                 <p>Diese Webseite wurde gemacht mit <a href="https://pages.github.com/">github pages</a> und dem CMS <a href="https://getpublii.com/">Publii</a>. Danke an <a href="https://nico-westerbeck.de">Nico Westerbeck</a> für die Umsetzung!</p>
 <p> </p>
 <p>Angaben gemäß § 5 TMG</p>
@@ -89,19 +89,19 @@
         <author>
             <name>Nico</name>
         </author>
-        <link href="neue-scholle.de/gaststaette/"/>
-        <id>neue-scholle.de/gaststaette/</id>
+        <link href="/gaststaette/"/>
+        <id>/gaststaette/</id>
 
         <updated>2020-04-05T12:46:07+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="neue-scholle.de/media/posts/1/P1820891.jpg" alt="" />
+                        <img src="/media/posts/1/P1820891.jpg" alt="" />
                     Wir haben ne krasse Gaststätte! Wirklich gut!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="neue-scholle.de/media/posts/1/P1820891.jpg" alt="" />
+                    <img src="/media/posts/1/P1820891.jpg" alt="" />
                 Wir haben ne krasse Gaststätte! Wirklich gut!
             ]]>
         </content>
