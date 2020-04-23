@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://neue-scholle.de/freie-gaerten/",
+            "url": "https://neue-scholle.de/freie-gaerten/",
+            "title": "Freie Gärten",
+            "summary": "Liebe interessierte Gartenfreunde/innen, im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei: Garten Nr. 59 Garten Nr. 37 Garten Nr. 5 Bei Interesse meldet euch bitte unter der e-Mail info-at-neue-scholle.de.",
+            "content_html": "<p>Liebe interessierte Gartenfreunde/innen,</p>\n<p>im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei:</p>\n<p>Garten Nr. 59<br>Garten Nr. 37 <br>Garten Nr. 5</p>\n<p>Bei Interesse meldet euch bitte unter der e-Mail info-at-neue-scholle.de.</p>",
+            "image": "https://neue-scholle.de/media/posts/6/P1820913.jpg",
+            "author": {
+                "name": "Nico"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-23T12:24:12+02:00",
+            "date_modified": "2020-04-23T12:27:07+02:00"
+        },
+        {
             "id": "https://neue-scholle.de/kontakt/",
             "url": "https://neue-scholle.de/kontakt/",
             "title": "Kontakt",

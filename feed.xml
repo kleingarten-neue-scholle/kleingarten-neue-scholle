@@ -3,12 +3,37 @@
     <title>Neue Scholle</title>
     <link href="https://neue-scholle.de/feed.xml" rel="self" />
     <link href="https://neue-scholle.de" />
-    <updated>2020-04-23T12:14:26+02:00</updated>
+    <updated>2020-04-23T12:36:31+02:00</updated>
     <author>
         <name>Nico</name>
     </author>
     <id>https://neue-scholle.de</id>
 
+    <entry>
+        <title>Freie Gärten</title>
+        <author>
+            <name>Nico</name>
+        </author>
+        <link href="https://neue-scholle.de/freie-gaerten/"/>
+        <id>https://neue-scholle.de/freie-gaerten/</id>
+
+        <updated>2020-04-23T12:27:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://neue-scholle.de/media/posts/6/P1820913.jpg" alt="" />
+                    Liebe interessierte Gartenfreunde/innen, im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei: Garten Nr. 59 Garten Nr. 37 Garten Nr. 5 Bei Interesse meldet euch bitte unter der e-Mail info-at-neue-scholle.de.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://neue-scholle.de/media/posts/6/P1820913.jpg" alt="" />
+                <p>Liebe interessierte Gartenfreunde/innen,</p>
+<p>im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei:</p>
+<p>Garten Nr. 59<br>Garten Nr. 37 <br>Garten Nr. 5</p>
+<p>Bei Interesse meldet euch bitte unter der e-Mail info-at-neue-scholle.de.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kontakt</title>
         <author>
