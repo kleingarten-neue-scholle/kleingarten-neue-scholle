@@ -14,7 +14,7 @@
             "url": "https://neue-scholle.de/freie-gaerten/",
             "title": "Freie Gärten",
             "summary": "Liebe interessierte Gartenfreunde/innen, im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei: Garten Nr. 59 Garten Nr. 37 Garten Nr. 5 Bei Interesse meldet euch bitte unter der e-Mail info-at-neue-scholle.de.",
-            "content_html": "<p>Liebe interessierte Gartenfreunde/innen,</p>\n<p>im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei:</p>\n<p>Garten Nr. 59<br>Garten Nr. 37 <br>Garten Nr. 5</p>\n<p>Bei Interesse meldet euch bitte unter der e-Mail info-at-neue-scholle.de.</p>",
+            "content_html": "<p>Liebe interessierte Gartenfreunde/innen,</p>\n<p>im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei:</p>\n<p>Garten Nr. 59<br>Garten Nr. 37 <br>Garten Nr. 5</p>\n<p><img class=\"post__image\" src=\"https://neue-scholle.de/media/posts/6/2020-04_GARTENPLAN.jpg\" alt=\"\" width=\"3340\" height=\"2348\"></p>\n<p>Bei Interesse meldet euch bitte unter der e-Mail info-at-neue-scholle.de.</p>",
             "image": "https://neue-scholle.de/media/posts/6/P1820913.jpg",
             "author": {
                 "name": "Nico"
@@ -22,14 +22,14 @@
             "tags": [
             ],
             "date_published": "2020-04-23T12:24:12+02:00",
-            "date_modified": "2020-04-23T12:27:07+02:00"
+            "date_modified": "2020-04-23T12:54:11+02:00"
         },
         {
             "id": "https://neue-scholle.de/kontakt/",
             "url": "https://neue-scholle.de/kontakt/",
             "title": "Kontakt",
-            "summary": "Schreibt uns doch an info -at- neue-scholle.de oder besucht uns, die Gärten sind in der Blabla Straße 42,5 123456 Brake Brake Brake.",
-            "content_html": "<p>Schreibt uns doch an info -at- neue-scholle.de oder besucht uns, die Gärten sind in der</p>\n<p>Blabla Straße 42,5<br>123456 Brake<br>Brake<br>Brake.</p>",
+            "summary": "Schreibt uns doch an info -at- neue-scholle.de oder besucht uns einfach mal. Die Gärten findet ihr im: Tunnelweg 10 33729 Bielefeld / Brake erreichbar zu Fuß, mit dem Rad oder dem Auto. Aber auch mit der Deutschen Bahn oder dem Bus!",
+            "content_html": "<p>Schreibt uns doch an info -at- neue-scholle.de oder besucht uns einfach mal. Die Gärten findet ihr im:</p>\n<p>Tunnelweg 10<br>33729 Bielefeld / Brake</p>\n<p><br>erreichbar zu Fuß, mit dem Rad oder dem Auto. Aber auch mit der Deutschen Bahn oder dem Bus!</p>",
             "image": "https://neue-scholle.de/media/posts/5/P1820925.jpg",
             "author": {
                 "name": "Nico"
@@ -37,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2020-04-05T13:20:01+02:00",
-            "date_modified": "2020-04-05T13:21:20+02:00"
+            "date_modified": "2020-04-23T12:58:00+02:00"
         },
         {
             "id": "https://neue-scholle.de/gaerten/",
