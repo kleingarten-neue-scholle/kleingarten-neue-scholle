@@ -13,8 +13,8 @@
             "id": "https://neue-scholle.de/freie-gaerten/",
             "url": "https://neue-scholle.de/freie-gaerten/",
             "title": "Freie Gärten",
-            "summary": "Liebe interessierte Gartenfreunde/innen, im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei: Garten 44 (Stand: 03.07.2020) Bei Interesse meldet euch bitte unter der e-Mail info(at)neue-scholle.de",
-            "content_html": "<p>Liebe interessierte Gartenfreunde/innen,</p>\n<p>im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei:</p>\n<p>Garten 44 (Stand: 03.07.2020)</p>\n<p><img class=\"post__image\" src=\"https://neue-scholle.de/media/posts/6/2020-04_GARTENPLAN.jpg\" alt=\"\" width=\"3340\" height=\"2348\"></p>\n<p>Bei Interesse meldet euch bitte unter der e-Mail info(at)neue-scholle.de</p>",
+            "summary": "Liebe interessierte Gartenfreunde/innen, im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei: Garten 37 (Stand: 03.07.2020) Garten 44 (Stand: 03.07.2020) Bei Interesse meldet euch bitte unter der e-Mail info(at)neue-scholle.de",
+            "content_html": "<p>Liebe interessierte Gartenfreunde/innen,</p>\n<p>im Augenblick sind in unserer Gartenanlage folgende Gärten zur neuen Verpachtung frei:</p>\n<p>Garten 37 (Stand: 03.07.2020)        Garten 44 (Stand: 03.07.2020)</p>\n<p><img class=\"post__image\" src=\"https://neue-scholle.de/media/posts/6/2020-04_GARTENPLAN.jpg\" alt=\"\" width=\"3340\" height=\"2348\"></p>\n<p>Bei Interesse meldet euch bitte unter der e-Mail info(at)neue-scholle.de</p>",
             "image": "https://neue-scholle.de/media/posts/6/P1820913.jpg",
             "author": {
                 "name": "Nico"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2020-04-23T12:24:12+02:00",
-            "date_modified": "2020-07-03T17:32:45+02:00"
+            "date_modified": "2020-07-03T23:00:33+02:00"
         },
         {
             "id": "https://neue-scholle.de/kontakt/",
@@ -73,8 +73,8 @@
             "id": "https://neue-scholle.de/gaststaette/",
             "url": "https://neue-scholle.de/gaststaette/",
             "title": "Gaststätte",
-            "summary": "Unsere Gaststätte lädt ein zum gemütlichen Beisammensein und Klönen",
-            "content_html": "Unsere Gaststätte lädt ein zum gemütlichen Beisammensein und Klönen",
+            "summary": "Unsere Gaststätte lädt ein zum gemütlichen Beisammensein und Klönen. Jetzt fragst du dich, was Klönen ist und ob man dafür einen Führerschein braucht? Wir wissen es auch nicht.... Also komm doch auf ein Kaltgetränk vorbei, Gäste sind herzlich willkommen. Unser Wirt freut sich schon auf&hellip;",
+            "content_html": "<p>Unsere Gaststätte lädt ein zum gemütlichen Beisammensein und Klönen. Jetzt fragst du dich, was Klönen ist und ob man dafür einen Führerschein braucht? Wir wissen es auch nicht.... Also komm doch auf ein Kaltgetränk vorbei, Gäste sind herzlich willkommen. Unser Wirt freut sich schon auf euch. Vielleicht verrät er euch ja, was Klönen ist...</p>",
             "image": "https://neue-scholle.de/media/posts/1/P1820891.jpg",
             "author": {
                 "name": "Nico"
@@ -82,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2020-04-05T12:35:09+02:00",
-            "date_modified": "2020-05-01T10:34:04+02:00"
+            "date_modified": "2020-07-03T23:06:47+02:00"
         }
     ]
 }
